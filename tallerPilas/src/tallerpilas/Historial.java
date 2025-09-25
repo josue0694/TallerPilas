@@ -1,15 +1,15 @@
-package pilas;
+package tallerpilas;
 
 /**
  *
  * @author handelenriquez
  */
 
-public class Dato {
+public class Historial {
     private int id;
     private String nom;
 
-    public Dato(int id, String nom) {
+    public Historial(int id, String nom) {
         this.id = id;
         this.nom = nom;
     }
