@@ -54,24 +54,5 @@ public class Pila {
        }
        JOptionPane.showMessageDialog(null, historial);
      }
-   
-  
-   
-   
-   
-   
    }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }

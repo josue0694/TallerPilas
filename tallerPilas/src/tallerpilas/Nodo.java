@@ -1,4 +1,3 @@
-
 package tallerpilas;
 
 /**
@@ -6,6 +5,7 @@ package tallerpilas;
  * @author jomas
  */
 public class Nodo {
+
     private Pagina dato;
     private Nodo sig;
 
@@ -18,7 +18,6 @@ public class Nodo {
         return dato;
     }
 
-    
     public Nodo getSig() {
         return sig;
     }
@@ -26,10 +25,4 @@ public class Nodo {
     public void setSig(Nodo sig) {
         this.sig = sig;
     }
-    
-    
-    
-    
-    
-    
 }
